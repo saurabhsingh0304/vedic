@@ -1,0 +1,1 @@
+web: gunicorn vedic.wsgi --log-file -
